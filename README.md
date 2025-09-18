@@ -11,8 +11,7 @@
 </p>
 
 ## 📌 Overview
-This project implements a **real-time traffic sign detection and classification system** using computer vision and machine learning techniques.  
-It detects and classifies various traffic signs from video streams or images, making it useful for **autonomous vehicles** and **driver assistance systems**.
+This project implements a **real-time traffic sign detection and classification system** using computer vision and machine learning techniques. It detects and classifies various traffic signs from video streams or images, making it useful for **autonomous vehicles** and **driver assistance systems**.
 
 ## ✨ Features
 - 🚗 Real-time traffic sign detection  
